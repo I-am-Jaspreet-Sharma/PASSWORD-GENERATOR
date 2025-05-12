@@ -1,8 +1,8 @@
 {
-  "name": "template-react-project",
+  "name": "password-generator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://i-am-jaspreet-sharma.github.io/PASSWORD-GENERATOR/",
+  "homepage": "https://I-am-Jaspreet-Sharma.github.io/PASSWORD-GENERATOR",
   "type": "module",
   "scripts": {
     "dev": "vite",
